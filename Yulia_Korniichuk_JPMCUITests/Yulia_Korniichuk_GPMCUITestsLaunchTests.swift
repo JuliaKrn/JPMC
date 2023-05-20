@@ -1,13 +1,13 @@
 //
-//  Yulia_Korniichuk_GPMCUITestsLaunchTests.swift
-//  Yulia_Korniichuk_GPMCUITests
+//  Yulia_Korniichuk_JPMCUITestsLaunchTests.swift
+//  Yulia_Korniichuk_JPMCUITests
 //
 //  Created by Yulia Kornichuk on 20/05/2023.
 //
 
 import XCTest
 
-final class Yulia_Korniichuk_GPMCUITestsLaunchTests: XCTestCase {
+final class Yulia_Korniichuk_JPMCUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

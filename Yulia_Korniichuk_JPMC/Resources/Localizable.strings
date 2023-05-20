@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Yulia_Korniichuk_JPMC
+
+  Created by Yulia Kornichuk on 21/05/2023.
+  
+*/
+
+"planets_screen_title" = "PLANETS";
+
+"alert_title" = "Error";
+"alert_message" = "Something went wrong, please try again later";
+"alert_button" = "Ok";
+
+"planet_population_label" = "Population: %@";
+"planet_terrain_label" = "Terrain: %@";
+
